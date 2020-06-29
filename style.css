@@ -70,3 +70,9 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+@media (max-width:768px){
+    .half-width{
+        width: 100%;
+    }
+}
